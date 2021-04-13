@@ -1,0 +1,8 @@
+ Componentes Ultilizados para a criação da calculadora
+
+- PySide2
+    - versão: 5.12.2
+
+- QtDisigner
+    - Ultilizado para construir a interface gráfica do programa
+    - Nativa do PySide2

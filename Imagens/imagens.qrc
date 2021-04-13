@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="imagens">
+    <file>icone_fechar.png</file>
+    <file>icone_copiar.png</file>
+    <file>icone_login.png</file>
+    <file>icone_cadastro.png</file>
+  </qresource>
+</RCC>
